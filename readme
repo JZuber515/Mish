@@ -1,3 +1,8 @@
+# Mish
+
+An interactive shell program.
+Takes input, tokenizes it, then forks and executes a process based on the input.
+
 @author jxz5746: Jacob Zuber
 
 
